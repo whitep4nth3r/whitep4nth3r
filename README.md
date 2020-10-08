@@ -1,9 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Salma 👋🏼
+
+Engineer • Tech Streamer • Content creator • Inclusivity activist
+
+## _Build stuff, learn things, love what you do_
+
+___
+
+I'm on a mission to promote access to science and technology. 
+
+We are living in the future, and anyone, of any age, from anywhere across the globe deserves access to a wealth of tech resources, guidance and inspiration that I so deeply desired when I was younger.
+
+
 
 <!--
-**whitep4nth3r/whitep4nth3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
