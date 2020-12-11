@@ -16,7 +16,7 @@ I'll be streaming front end development on Twitch in my spare time whilst my rol
 
 ### ✨ Beginning 2021
 
-In February 2021, I'll be joining [Contentful](https://www.contentful.com/) as a Developer Evangelist. I am incredibly lucky to be turning my hobbies and passions that have developed over the year into a full time endeavour - where my mission is to promote accessibility and inclusivity in technology and STEM, whilst supporting a great product.
+In January 2021, I'll be joining [Contentful](https://www.contentful.com/) as a Developer Evangelist. I am incredibly lucky to be turning my hobbies and passions that have developed over the year into a full time endeavour - where my mission is to promote accessibility and inclusivity in technology and STEM, whilst supporting a great product.
 
 As a bonus, I'll be streaming live music improvisation streams in place of my spare-time technology streams. 
 
