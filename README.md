@@ -2,7 +2,7 @@
 
 # Hi there, I'm Salma. I stream, write and speak about tech.
 
-## Build stuff, learn things, love what you do
+## I help people build stuff, learn things, and love what they do
 
 ### 📫 How to reach me: 
 - [Blog](https://whitep4nth3r.com/?utm_source=github)
