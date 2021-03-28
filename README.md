@@ -1,4 +1,4 @@
-![whitep4nth3r: Live coding streamer, writer, speaker](https://p4nth3rblog-og-image.vercel.app/whitep4nth3r:%20Live%20coding%20streamer,%20writer,%20speaker.png?theme=light&md=0fontSize=80px&images=https%3A%2F%2Fp4nth3rlabs.netlify.app%2Fassets%2Fsvgs%2Fpanthers%2Fmajick.svg)
+![whitep4nth3r: Live coding streamer, writer, speaker](https://p4nth3rblog-og-image.vercel.app/I%20am%20whitep4nth3r.%20I%20help%20developers%20build%20stuff%2C%20learn%20things%2C%20and%20love%20what%20they%20do..png?theme=light&md=0&fontSize=80px&images=https%3A%2F%2Fp4nth3rlabs.netlify.app%2Fassets%2Fsvgs%2Fpanthers%2Fmajick.svg)
 
 # Hi there, I'm Salma. I stream, write and speak about tech.
 
