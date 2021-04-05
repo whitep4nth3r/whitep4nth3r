@@ -2,7 +2,7 @@
 
 # Hi there! I'm Salma. I stream, write and speak about tech.
 
-## I help people build stuff, learn things, and love what they do
+## I help developers build stuff, learn things, and love what they do
 
 ### ⚡️ I currently work as a Developer Evangelist at Contentful.
 
