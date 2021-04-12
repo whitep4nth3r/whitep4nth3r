@@ -4,7 +4,9 @@
 
 ## I help developers build stuff, learn things, and love what they do
 
-### ⚡️ I currently work as a Developer Evangelist at Contentful.
+I currently work as a Developer Evangelist for Contentful. You can find me building stuff and learning things live on Twitch three times a week. You will often hear me shouting about inclusivity and accessibility.
+
+Tech is the future, and everyone is welcome.
 
 ### ⚡️ How to reach me: 
 - [Website](https://whitep4nth3r.com/?utm_source=github)
