@@ -3,18 +3,14 @@ on:
   repository_dispatch:
     types: [contentful.deploy]
 jobs:
-  wait-for-vercel-deploy:
-    name: Wait for arbitrary 5 mins for feed to build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: jakejarvis/wait-action@master
-        with:
-          time: "5m"
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: jakejarvis/wait-action@master
+        with:
+          time: "5m"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://whitep4nth3r.com/feed.xml"
