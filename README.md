@@ -11,7 +11,6 @@ Tech is the future, and everyone is welcome.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
-
 - [How to make your font sizes accessible with CSS](https://whitep4nth3r.com/blog/how-to-make-your-font-sizes-accessible-with-css)
 - [What is BEM in CSS?](https://whitep4nth3r.com/blog/what-is-bem-in-css)
 - [The future of ecommerce is with Jamstack: Next.js, Contentful and Shopify](https://whitep4nth3r.com/blog/future-ecommerce-jamstack-next.js-contentful-shopify)
