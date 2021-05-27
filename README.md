@@ -8,12 +8,12 @@ and accessibility.
 
 Tech is the future, and everyone is welcome.
 
-## Latest articles on [my blog](https://whitep4nth3r.com)
+## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### ⚡️ How to reach me:
+##⚡️ How to reach me:
 
 - [Website](https://whitep4nth3r.com/?utm_source=github)
 - [Twitter](https://twitter.com/whitep4nth3r)
