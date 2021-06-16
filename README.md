@@ -11,11 +11,11 @@ Tech is the future, and everyone is welcome.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to filter entries by linked references in GraphQL](https://whitep4nth3r.com/blog/filter-entries-by-linked-references-in-graphql-api)
 - [How to use GitHub actions and Contentful webhooks to show your latest blog posts on your GitHub profile README](https://whitep4nth3r.com/blog/how-to-github-actions-contentful-webhooks-to-show-latest-blog-posts-readme)
 - [Rich Text field tips and tricks from the Contentful DevRel team](https://whitep4nth3r.com/blog/rich-text-field-tips-and-tricks)
 - [How to make your font sizes accessible with CSS](https://whitep4nth3r.com/blog/how-to-make-your-font-sizes-accessible-with-css)
 - [What is BEM in CSS?](https://whitep4nth3r.com/blog/what-is-bem-in-css)
-- [The future of ecommerce is with Jamstack: Next.js, Contentful and Shopify](https://whitep4nth3r.com/blog/future-ecommerce-jamstack-next.js-contentful-shopify)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
