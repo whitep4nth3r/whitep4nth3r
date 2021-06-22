@@ -25,4 +25,4 @@ Tech is the future, and everyone is welcome.
 - [Twitch](https://twitch.tv/whitep4nth3r)
 - [YouTube](https://www.youtube.com/channel/UCiGFO97qgxZEbbg43mZSeyg)
 
-### ⚡️ Pronouns: She/They
+### ⚡️ Pronouns: She/Her
