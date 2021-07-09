@@ -11,11 +11,11 @@ Tech is the future, and everyone is welcome.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How I set up my new Next.js projects with a handy bash script](https://whitep4nth3r.com/blog/how-to-set-up-new-next-js-projects-with-bash-script)
 - [How to add Algolia InstantSearch to your Next.js application](https://whitep4nth3r.com/blog/add-algolia-instantsearch-to-nextjs-app)
 - [How to prevent the collapse of society by building an accessible web](https://whitep4nth3r.com/talks/how-to-prevent-the-collapse-of-society-by-building-an-accessible-web)
 - [How to filter entries by linked references in GraphQL](https://whitep4nth3r.com/blog/filter-entries-by-linked-references-in-graphql-api)
 - [How to use GitHub actions and Contentful webhooks to show your latest blog posts on your GitHub profile README](https://whitep4nth3r.com/blog/how-to-github-actions-contentful-webhooks-to-show-latest-blog-posts-readme)
-- [Rich Text field tips and tricks from the Contentful DevRel team](https://whitep4nth3r.com/blog/rich-text-field-tips-and-tricks)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
