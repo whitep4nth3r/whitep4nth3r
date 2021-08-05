@@ -11,11 +11,11 @@ Tech is the future, and everyone is welcome.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A Next.js complete beginner tutorial using the Spotify API](https://whitep4nth3r.com/blog/next-js-beginner-tutorial-using-spotify-api)
 - [How to avoid using relative path imports in Next.js](https://whitep4nth3r.com/blog/how-to-avoid-using-relative-path-imports-next-js)
 - [How I set up my new Next.js projects with a handy bash script](https://whitep4nth3r.com/blog/how-to-set-up-new-next-js-projects-with-bash-script)
 - [How to add Algolia InstantSearch to your Next.js application](https://whitep4nth3r.com/blog/add-algolia-instantsearch-to-nextjs-app)
 - [How to prevent the collapse of society by building an accessible web](https://whitep4nth3r.com/talks/how-to-prevent-the-collapse-of-society-by-building-an-accessible-web)
-- [How to filter entries by linked references in GraphQL](https://whitep4nth3r.com/blog/filter-entries-by-linked-references-in-graphql-api)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
