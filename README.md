@@ -2,9 +2,7 @@
 
 # Hi there! I'm Salma. I help developers build stuff, learn things, and love what they do
 
-I currently work as a Developer Evangelist for Contentful. You can find me building stuff and
-learning things live on Twitch three times a week. You will often hear me shouting about inclusivity
-and accessibility.
+I currently work in Developer Relations at Contentful. You can find me building stuff and learning things live on Twitch three times a week. You will often hear me shouting about inclusivity and accessibility.
 
 Tech is the future, and everyone is welcome.
 
