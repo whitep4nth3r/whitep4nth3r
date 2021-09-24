@@ -9,11 +9,11 @@ Tech is the future, and everyone is welcome.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [This box will change your life](https://whitep4nth3r.com/talks/this-box-will-change-your-life)
 - [Why I love Polywork as a developer advocate — and it's not for the reason you think](https://whitep4nth3r.com/blog/why-i-love-polywork-as-a-developer-advocate)
 - [Ecommerce and Next.js on the Jamstack — with Colby Fayock](https://whitep4nth3r.com/blog/ecommerce-next-js-jamstack-colby-fayock)
 - [How to build a personalized image social sharing app with Cloudinary and Next.js](https://whitep4nth3r.com/blog/personalized-image-social-sharing-with-cloudinary-nextjs)
 - [Why I love building with Next.js — a fireside chat with Cassidy Williams of Netlify](https://whitep4nth3r.com/blog/building-with-nextjs-cassidy-williams-netlify-fireside-chat)
-- [What is an API?](https://whitep4nth3r.com/blog/what-is-an-api)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
