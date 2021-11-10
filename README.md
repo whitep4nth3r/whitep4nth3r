@@ -12,10 +12,10 @@ Tech is the future, and everyone is welcome.
 
 <!-- BLOG-POST-LIST:START -->
 - [TIL: How to use GraphQL variables to give my queries type safety](https://whitep4nth3r.com/blog/how-to-use-graphql-variables)
-- [Next.js Dynamic Routes With Contentful's GraphQL API — with Jason Lengstorf](https://whitep4nth3r.com/blog/next-js-dynamic-routes-with-contentfuls-graphql-api-with-jason-lengstorf)
+- [Next.js Dynamic Routes With Contentful&#39;s GraphQL API — with Jason Lengstorf](https://whitep4nth3r.com/blog/next-js-dynamic-routes-with-contentfuls-graphql-api-with-jason-lengstorf)
 - [What is a REST API?](https://whitep4nth3r.com/blog/what-is-a-rest-api)
 - [This box will change your life](https://whitep4nth3r.com/talks/this-box-will-change-your-life)
-- [Why I love Polywork as a developer advocate — and it's not for the reason you think](https://whitep4nth3r.com/blog/why-i-love-polywork-as-a-developer-advocate)
+- [Why I love Polywork as a developer advocate — and it&#39;s not for the reason you think](https://whitep4nth3r.com/blog/why-i-love-polywork-as-a-developer-advocate)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
