@@ -1,3 +1,5 @@
+![A banner that reads: build stuff, learn things, love what you do which is surrounded by various panthers](https://static-cdn.jtvnw.net/jtv_user_pictures/team-theclaw-banner_image-b35a075e7b424e7bb4f666f881be0244-640x125.png)
+
 # Hi there! I'm Salma. I help developers build stuff, learn things, and love what they do
 
 With a background in music, teaching and comedy, and after a career as a front end developer and lead engineer, I currently work in Developer Relations at Contentful.
