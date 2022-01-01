@@ -2,7 +2,7 @@
 
 # Hi there! I'm Salma. I help developers build stuff, learn things, and love what they do
 
-With a background in music, teaching and comedy, and after a career as a front end developer and lead engineer, I currently work in Developer Relations at Contentful.
+With a background in music, teaching and comedy, and after a career as a front end developer and lead engineer, I currently work on the Developer Experience team at Netlify.
 
 I am a Microsoft MVP for Developer Technologies, Twitch partner, live coding streamer, speaker, tech content creator, and relentless advocate for building a truly accessible web. Founder of unbreak.tech and womenwhostream.tech, my projects revolve around activism for social change and equality in the technology industry, and my expertise is the Jamstack and related front end web technologies.
 
