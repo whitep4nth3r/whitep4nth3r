@@ -11,11 +11,11 @@ Tech is the future, and everyone is welcome.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build an HTML-only accordion — no JavaScript required!](https://whitep4nth3r.com/blog/how-to-build-html-accordion-no-javascript)
 - [Debug your CSS layouts with this one simple trick](https://whitep4nth3r.com/blog/debug-css-layouts)
 - [How to use really long environment variables in Netlify functions](https://whitep4nth3r.com/blog/how-to-use-really-long-environment-variables-in-netlify-functions)
 - [An introduction to GraphQL and how to use GraphQL APIs](https://whitep4nth3r.com/blog/what-is-graphql)
 - [How to load responsive images in AVIF and WebP using the HTML picture element](https://whitep4nth3r.com/blog/how-to-load-responsive-images-in-avif-and-webp-using-html-picture-element)
-- [Contentful&#39;s Fast Forward 2021 Day 2 Keynote](https://whitep4nth3r.com/talks/contentful-fast-forward-2021-day-2-keynote)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
