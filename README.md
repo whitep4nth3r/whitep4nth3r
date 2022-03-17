@@ -11,7 +11,7 @@ Tech is the future, and everyone is welcome.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [Catch up on the launch of Women of Jamstack](https://whitep4nth3r.com/blog/catch-up-on-the-launch-of-women-of-jamstack/)
+- [Unicorn Instagram: Catch up on the launch of Women of Jamstack](https://whitep4nth3r.com/blog/womem-of-jamstack-launch/)
 - [How to delete all merged git branches with one terminal command](https://whitep4nth3r.com/blog/delete-all-merged-git-branches-one-terminal-command/)
 - [Why you should ship your silly side projects](https://whitep4nth3r.com/blog/why-ship-silly-side-projects/)
 - [Watch the Women of Jamstack prototype get built and deployed in under 7 minutes](https://whitep4nth3r.com/blog/women-of-jamstack-prototype-eleventy/)
