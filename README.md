@@ -1,12 +1,10 @@
 ![A banner that reads: build stuff, learn things, love what you do which is surrounded by various panthers](https://static-cdn.jtvnw.net/jtv_user_pictures/team-theclaw-banner_image-b35a075e7b424e7bb4f666f881be0244-640x125.png)
 
-# Hi there! I'm Salma. I help developers build stuff, learn things, and love what they do
+# Hi, friends! I'm Salma.
 
-With a background in music, teaching and comedy, and after a career as a front end developer and lead engineer, I currently work on the Developer Experience team at Netlify.
+## I help developers build stuff, learn things, and love what they do.
 
-I am a Microsoft MVP for Developer Technologies, Twitch partner, live coding streamer, speaker, tech content creator, and relentless advocate for building a truly accessible web. Founder of unbreak.tech and womenwhostream.tech, my projects revolve around activism for social change and equality in the technology industry, and my expertise is the Jamstack and related front end web technologies.
-
-Tech is the future, and everyone is welcome.
+I'm a Staff Developer Experience engineer at Netlify. I'm also a Microsoft MVP for developer technologies, a partnered live streamer on Twitch, and a qualified teacher. I love helping people get into tech.
 
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
