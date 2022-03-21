@@ -11,11 +11,11 @@ Tech is the future, and everyone is welcome.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to format dates for RSS feeds &lpar;RFC-822&rpar;](https://whitep4nth3r.com/blog/how-to-format-dates-for-rss-feeds-rfc-822/)
 - [Unicorn Instagram: Catch up on the launch of Women of Jamstack](https://whitep4nth3r.com/blog/womem-of-jamstack-launch/)
 - [How to delete all merged git branches with one terminal command](https://whitep4nth3r.com/blog/delete-all-merged-git-branches-one-terminal-command/)
 - [Why you should ship your silly side projects](https://whitep4nth3r.com/blog/why-ship-silly-side-projects/)
 - [Watch the Women of Jamstack prototype get built and deployed in under 7 minutes](https://whitep4nth3r.com/blog/women-of-jamstack-prototype-eleventy/)
-- [Previewing your posts — how to build the best decoupled content management workflow for your static site](https://whitep4nth3r.com/blog/previewing-posts-best-decoupled-content-management-workflow-for-your-static-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
