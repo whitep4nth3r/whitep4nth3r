@@ -22,5 +22,6 @@ I'm a Staff Developer Experience engineer at Netlify. I'm also a Microsoft MVP f
 - [Twitter](https://twitter.com/whitep4nth3r)
 - [Twitch](https://twitch.tv/whitep4nth3r)
 - [YouTube](https://www.youtube.com/channel/UCiGFO97qgxZEbbg43mZSeyg)
+- [TikTok](https://www.tiktok.com/@whitep4nth3r)
 
 ### ⚡️ Pronouns: She/Her
