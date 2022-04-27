@@ -9,11 +9,11 @@ I'm a Staff Developer Experience engineer at Netlify. I'm also a Microsoft MVP f
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;re all living on it. But what exactly is The Edge?](https://whitep4nth3r.com/blog/what-is-the-edge-serverless-functions/)
 - [HTML is all you need to make a website](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/)
 - [How I massively improved my website performance by using the right tool for the job](https://whitep4nth3r.com/blog/how-i-improved-website-performance/)
 - [How to format dates for RSS feeds &lpar;RFC-822&rpar;](https://whitep4nth3r.com/blog/how-to-format-dates-for-rss-feeds-rfc-822/)
 - [Unicorn Instagram: Catch up on the launch of Women of Jamstack](https://whitep4nth3r.com/blog/womem-of-jamstack-launch/)
-- [How to delete all merged git branches with one terminal command](https://whitep4nth3r.com/blog/delete-all-merged-git-branches-one-terminal-command/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
