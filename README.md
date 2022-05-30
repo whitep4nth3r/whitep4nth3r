@@ -9,11 +9,11 @@ I'm a Staff Developer Experience engineer at Netlify. I'm also a Microsoft MVP f
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Level up your link previews in Slack](https://whitep4nth3r.com/blog/level-up-your-link-previews-in-slack/)
 - [Light and dark mode in just 14 lines of CSS](https://whitep4nth3r.com/blog/quick-light-dark-mode-css/)
 - [What is Jamstack?](https://whitep4nth3r.com/blog/what-is-jamstack/)
 - [We&#39;re all living on it. But what exactly is The Edge?](https://whitep4nth3r.com/blog/what-is-the-edge-serverless-functions/)
 - [HTML is all you need to make a website](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/)
-- [How I massively improved my website performance by using the right tool for the job](https://whitep4nth3r.com/blog/how-i-improved-website-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
