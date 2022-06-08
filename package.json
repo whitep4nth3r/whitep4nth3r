@@ -1,0 +1,32 @@
+{
+  "name": "whitep4nth3r",
+  "version": "1.0.0",
+  "description": "My ha ha business card.",
+  "main": "index.js",
+  "bin": {
+    "whitep4nth3r": "./scripts/business.mjs"
+  },
+  "scripts": {
+    "card": "node ./scripts/business.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitep4nth3r/whitep4nth3r.git"
+  },
+  "keywords": [
+    "business",
+    "salma",
+    "alam-naylor",
+    "whitep4nth3r"
+  ],
+  "author": "whitep4nth3r",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whitep4nth3r/whitep4nth3r/issues"
+  },
+  "homepage": "https://github.com/whitep4nth3r/whitep4nth3r#readme",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^5.0.1"
+  }
+}
