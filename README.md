@@ -1,21 +1,19 @@
 ![A banner that reads: build stuff, learn things, love what you do which is surrounded by various panthers](https://static-cdn.jtvnw.net/jtv_user_pictures/team-theclaw-banner_image-b35a075e7b424e7bb4f666f881be0244-640x125.png)
 
-# Hi there! I'm Salma. I help developers build stuff, learn things, and love what they do
+# Hi, friends! I'm Salma.
 
-With a background in music, teaching and comedy, and after a career as a front end developer and lead engineer, I currently work on the Developer Experience team at Netlify.
+## I help developers build stuff, learn things, and love what they do.
 
-I am a Microsoft MVP for Developer Technologies, Twitch partner, live coding streamer, speaker, tech content creator, and relentless advocate for building a truly accessible web. Founder of unbreak.tech and womenwhostream.tech, my projects revolve around activism for social change and equality in the technology industry, and my expertise is the Jamstack and related front end web technologies.
-
-Tech is the future, and everyone is welcome.
+I'm a Staff Developer Experience engineer at Netlify. I'm also a Microsoft MVP for developer technologies, a partnered live streamer on Twitch, and a qualified teacher. I love helping people get into tech.
 
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [An introduction to GraphQL and how to use GraphQL APIs](https://whitep4nth3r.com/blog/what-is-graphql)
-- [How to load responsive images in AVIF and WebP using the HTML picture element](https://whitep4nth3r.com/blog/how-to-load-responsive-images-in-avif-and-webp-using-html-picture-element)
-- [Contentful&#39;s Fast Forward 2021 Day 2 Keynote](https://whitep4nth3r.com/talks/contentful-fast-forward-2021-day-2-keynote)
-- [TIL: How to use GraphQL variables to give my queries type safety](https://whitep4nth3r.com/blog/how-to-use-graphql-variables)
-- [Next.js Dynamic Routes With Contentful&#39;s GraphQL API — with Jason Lengstorf](https://whitep4nth3r.com/blog/next-js-dynamic-routes-with-contentfuls-graphql-api-with-jason-lengstorf)
+- [Level up your link previews in Slack](https://whitep4nth3r.com/blog/level-up-your-link-previews-in-slack/)
+- [Light and dark mode in just 14 lines of CSS](https://whitep4nth3r.com/blog/quick-light-dark-mode-css/)
+- [What is Jamstack?](https://whitep4nth3r.com/blog/what-is-jamstack/)
+- [We&#39;re all living on it. But what exactly is The Edge?](https://whitep4nth3r.com/blog/what-is-the-edge-serverless-functions/)
+- [HTML is all you need to make a website](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
@@ -24,5 +22,6 @@ Tech is the future, and everyone is welcome.
 - [Twitter](https://twitter.com/whitep4nth3r)
 - [Twitch](https://twitch.tv/whitep4nth3r)
 - [YouTube](https://www.youtube.com/channel/UCiGFO97qgxZEbbg43mZSeyg)
+- [TikTok](https://www.tiktok.com/@whitep4nth3r)
 
 ### ⚡️ Pronouns: She/Her
