@@ -9,7 +9,7 @@ I'm a Staff Developer Experience engineer at Netlify. I'm also a Microsoft MVP f
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deploy an Astro site](https://www.netlify.com/blog/how-to-deploy-astro/#deploy-a-netlify-template)
+- [How to deploy an Astro site](https://ntl.fyi/deploy-astro)
 - [Build a business card CLI tool](https://whitep4nth3r.com/blog/build-a-business-card-cli-tool/)
 - [Level up your link previews in Slack](https://whitep4nth3r.com/blog/level-up-your-link-previews-in-slack/)
 - [Light and dark mode in just 14 lines of CSS](https://whitep4nth3r.com/blog/quick-light-dark-mode-css/)
