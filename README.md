@@ -11,7 +11,7 @@ I'm a Staff Developer Experience engineer at Netlify. I'm also a Microsoft MVP f
 <!-- BLOG-POST-LIST:START -->
 - [How to view Google Lighthouse scores for your site in Netlify](https://www.netlify.com/blog/view-google-lighthouse-scores-visualizations/)
 - [Should I write a new JavaScript framework?](https://whitep4nth3r.com/blog/should-i-write-a-new-javascript-framework/)
-- [How to deploy an Astro site](https://ntl.fyi/deploy-astro)
+- [How to deploy an Astro site](https://www.netlify.com/blog/how-to-deploy-astro/)
 - [Build a business card CLI tool](https://whitep4nth3r.com/blog/build-a-business-card-cli-tool/)
 - [Level up your link previews in Slack](https://whitep4nth3r.com/blog/level-up-your-link-previews-in-slack/)
 <!-- BLOG-POST-LIST:END -->
