@@ -10,10 +10,10 @@ I'm a Staff Developer Experience engineer at Netlify. I'm also a Microsoft MVP f
 
 <!-- BLOG-POST-LIST:START -->
 - [Add personalization to static HTML with Netlify Edge Functions — no browser JavaScript required](https://www.netlify.com/blog/add-personalization-to-static-html-with-edge-functions-no-browser-javascript/)
+- [We&#39;re all living on it. But what exactly is The Edge?](https://whitep4nth3r.com/talks/were-all-living-on-it-but-what-exactly-is-the-edge/)
 - [How to view Google Lighthouse scores for your site in Netlify](https://www.netlify.com/blog/view-google-lighthouse-scores-visualizations/)
 - [Should I write a new JavaScript framework?](https://whitep4nth3r.com/blog/should-i-write-a-new-javascript-framework/)
 - [How to deploy an Astro site](https://www.netlify.com/blog/how-to-deploy-astro/)
-- [Build a business card CLI tool](https://whitep4nth3r.com/blog/build-a-business-card-cli-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
