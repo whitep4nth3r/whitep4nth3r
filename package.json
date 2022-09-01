@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/whitep4nth3r/whitep4nth3r#readme",
   "dependencies": {
+    "asciify-image": "^0.1.8",
     "boxen": "^6.2.1",
     "chalk": "^5.0.1"
   }
