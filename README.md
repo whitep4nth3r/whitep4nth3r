@@ -10,7 +10,6 @@ live streamer on Twitch, and a qualified teacher. I love helping people get into
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
-
 - [What&#39;s the difference between : and :: in CSS?](https://whitep4nth3r.com/blog/pseudo-classes-and-pseudo-elements/)
 - [Rewrite HTML and transform page props in Next.js with Next.js Advanced Middleware](https://ntl.fyi/nextjs-rewrite-html-at-the-edge)
 - [Add personalization to static HTML with Netlify Edge Functions — no browser JavaScript required](https://www.netlify.com/blog/add-personalization-to-static-html-with-edge-functions-no-browser-javascript/)
