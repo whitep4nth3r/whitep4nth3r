@@ -1,15 +1,14 @@
 ![A screenshot from my Twitch stream, with me against my website background](twitch_grab.png)
 
-# Hi, friends! I'm Salma.
+# I code live for your entertainment
 
-## I help developers build stuff, learn things, and love what they do.
-
-I'm a Staff Developer Experience engineer at Netlify. I'm also a Microsoft MVP for developer technologies, a partnered
-live streamer on Twitch, and a qualified teacher. I love helping people get into tech.
+I'm a software engineer, writer, and live streamer. I help developers build stuff, learn things, and love what they do
+through blog posts, tutorial videos, live coding and building open source projects.
 
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+
 - [I changed my mind about writing new JavaScript frameworks](https://whitep4nth3r.com/blog/write-a-new-javascript-framework/)
 - [Rewrite your git history in 4 friendly commands](https://whitep4nth3r.com/blog/rewrite-git-history/)
 - [What&#39;s the difference between : and :: in CSS?](https://whitep4nth3r.com/blog/pseudo-classes-and-pseudo-elements/)
@@ -19,10 +18,7 @@ live streamer on Twitch, and a qualified teacher. I love helping people get into
 
 ## ⚡️ Keep up to date
 
-- [Website](https://whitep4nth3r.com/?utm_source=github)
+- [Website](https://whitep4nth3r.com/)
 - [Twitter](https://twitter.com/whitep4nth3r)
 - [Twitch](https://twitch.tv/whitep4nth3r)
-- [YouTube](https://www.youtube.com/channel/UCiGFO97qgxZEbbg43mZSeyg)
-- [TikTok](https://www.tiktok.com/@whitep4nth3r)
-
-### ⚡️ Pronouns: She/Her
+- [YouTube](https://www.youtube.com/c/whitep4nth3r/videos)
