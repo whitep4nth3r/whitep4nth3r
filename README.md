@@ -8,7 +8,6 @@ through blog posts, tutorial videos, live coding and building open source projec
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
-
 - [I changed my mind about writing new JavaScript frameworks](https://whitep4nth3r.com/blog/write-a-new-javascript-framework/)
 - [Rewrite your git history in 4 friendly commands](https://whitep4nth3r.com/blog/rewrite-git-history/)
 - [What&#39;s the difference between : and :: in CSS?](https://whitep4nth3r.com/blog/pseudo-classes-and-pseudo-elements/)
