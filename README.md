@@ -1,6 +1,6 @@
 ![A screenshot from my Twitch stream, with me against my website background](twitch_grab.png)
 
-# I code live for your entertainment
+# I write code for your entertainment
 
 I'm a software engineer, writer, and live streamer. I help developers build stuff, learn things, and love what they do
 through blog posts, tutorial videos, live coding and building open source projects.
