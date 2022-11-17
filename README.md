@@ -2,8 +2,7 @@
 
 # I write code for your entertainment
 
-I'm a software engineer, writer, and live streamer. I help developers build stuff, learn things, and love what they do
-through blog posts, tutorial videos, live coding and building open source projects.
+I'm a software engineer, writer, and live streamer. I help developers build 🔥 cool stuff 🔥 with blog posts, tutorial videos, live coding and open source projects. I work at Netlify.
 
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
