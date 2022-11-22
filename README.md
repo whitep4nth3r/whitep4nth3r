@@ -7,7 +7,7 @@ I'm a software engineer, writer, and live streamer. I help developers build 🔥
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [A responsive striped CSS pattern inspired by 80s VHS tapes](https://whitep4nth3r.com/blog/responsive-striped-css-pattern-80s-vhs-tapes/)
+- [A responsive striped CSS gradient inspired by 80s VHS tapes](https://whitep4nth3r.com/blog/responsive-striped-css-pattern-80s-vhs-tapes/)
 - [Single-page applications, multi-page applications, the history of Twitter tech, and a failed project](https://whitep4nth3r.com/blog/twitter-tech-history-spa/)
 - [Personalize your static site based on a previous site referral](https://ntl.fyi/3SBU2DY)
 - [I changed my mind about writing new JavaScript frameworks](https://whitep4nth3r.com/blog/write-a-new-javascript-framework/)
