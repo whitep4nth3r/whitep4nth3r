@@ -8,7 +8,6 @@ blog posts, tutorial videos, live coding and open source projects. I work at Net
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
-
 - [We actually need more JavaScript frameworks](https://whitep4nth3r.com/talks/we-need-more-javascript-frameworks/)
 - [How do I get started in web development?](https://whitep4nth3r.com/blog/how-do-i-get-started-in-web-development/)
 - [2022: what I made, what I learned, and what I didn&#39;t do](https://whitep4nth3r.com/blog/2022-in-review/)
