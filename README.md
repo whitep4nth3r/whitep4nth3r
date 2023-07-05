@@ -1,4 +1,4 @@
-[![Watch my Twitch channel trailer](trailer_thumb.png)](https://www.twitch.tv/videos/1712035150)
+[![Watch my Twitch channel trailer](banner.png)](https://www.twitch.tv/videos/1712035150)
 
 # I write code for your entertainment
 
