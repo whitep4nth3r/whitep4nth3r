@@ -4,6 +4,8 @@
 
 I'm a live streamer, software engineer, and developer educator. I help developers build cool stuff with blog posts, tutorial videos, live coding and open source projects.
 
+## [Things I use for coding and streaming](https://whitep4nth3r.com/uses/)
+
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
