@@ -9,11 +9,11 @@ I'm a live streamer, software engineer, and developer educator. I help developer
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [From LCP to CLS: Improve your Core Web Vitals with Image Loading Best Practices](https://blog.sentry.io/from-lcp-to-cls-improve-your-core-web-vitals-with-image-loading-best/)
 - [5 reasons you should hire me as your next developer experience engineer](https://whitep4nth3r.com/blog/hire-me/)
 - [How I deploy my website using my Apple Watch](https://whitep4nth3r.com/blog/deploy-website-using-apple-watch/)
 - [The best light/dark mode theme toggle in JavaScript](https://whitep4nth3r.com/blog/best-light-dark-mode-theme-toggle-javascript/)
 - [A/B test CMS authored content with Netlify Edge Functions](https://www.netlify.com/blog/a-b-test-cms-authored-content-netlify-edge-functions/)
-- [How to split traffic and A/B test different page layouts on the same URL](https://www.netlify.com/blog/how-to-split-traffic-a-b-test-page-layouts-same-url/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
