@@ -9,11 +9,11 @@ I'm a live streamer, software engineer, and developer educator. I help developer
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Using hooks to monitor and error track with Sentry when self-hosting Directus](https://docs.directus.io/blog/hooks-monitoring-error-tracking-sentry.html)
 - [How to use jQuery with Astro](https://whitep4nth3r.com/blog/how-to-use-jquery-with-astro/)
 - [From LCP to CLS: Improve your Core Web Vitals with Image Loading Best Practices](https://blog.sentry.io/from-lcp-to-cls-improve-your-core-web-vitals-with-image-loading-best/)
 - [5 reasons you should hire me as your next developer experience engineer](https://whitep4nth3r.com/blog/hire-me/)
 - [How I deploy my website using my Apple Watch](https://whitep4nth3r.com/blog/deploy-website-using-apple-watch/)
-- [The best light/dark mode theme toggle in JavaScript](https://whitep4nth3r.com/blog/best-light-dark-mode-theme-toggle-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
