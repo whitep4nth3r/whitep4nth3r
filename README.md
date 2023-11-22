@@ -6,6 +6,8 @@ I'm a live streamer, software engineer, and developer educator. I help developer
 
 [Things I use for coding and streaming](https://whitep4nth3r.com/uses/)
 
+[Subscribe to the Weird Wide Web Hole Newsletter](https://buttondown.email/weirdwidewebhole)
+
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
