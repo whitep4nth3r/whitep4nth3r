@@ -11,11 +11,11 @@ I'm a live streamer, software engineer, and developer educator. I help developer
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything I install and set up on a new MacBook as a web developer](https://whitep4nth3r.com/blog/everything-i-install-and-set-up-on-a-new-macbook-as-a-web-developer/)
 - [A story about HTTP status codes and why you should read documentation](https://blog.sentry.io/http-status-codes-and-reading-docs/)
 - [Using hooks to monitor and error track with Sentry when self-hosting Directus](https://docs.directus.io/blog/hooks-monitoring-error-tracking-sentry.html)
 - [How to use jQuery with Astro](https://whitep4nth3r.com/blog/how-to-use-jquery-with-astro/)
 - [From LCP to CLS: Improve your Core Web Vitals with Image Loading Best Practices](https://blog.sentry.io/from-lcp-to-cls-improve-your-core-web-vitals-with-image-loading-best/)
-- [5 reasons you should hire me as your next developer experience engineer](https://whitep4nth3r.com/blog/hire-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
