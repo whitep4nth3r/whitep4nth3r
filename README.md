@@ -11,11 +11,11 @@ I'm a live streamer, software engineer, and developer educator. I help developer
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fix error: invalid character in entity name in RSS feeds](https://whitep4nth3r.com/blog/how-to-fix-error-invalid-character-in-entity-name-rss-feeds/)
 - [Fallbacks for HTTP 404 images in HTML and JavaScript](https://blog.sentry.io/fallbacks-for-http-404-images-in-html-and-javascript/)
 - [Everything I install and set up on a new MacBook as a web developer](https://whitep4nth3r.com/blog/everything-i-install-and-set-up-on-a-new-macbook-as-a-web-developer/)
 - [A story about HTTP status codes and why you should read documentation](https://blog.sentry.io/http-status-codes-and-reading-docs/)
 - [Using hooks to monitor and error track with Sentry when self-hosting Directus](https://docs.directus.io/blog/hooks-monitoring-error-tracking-sentry.html)
-- [How to use jQuery with Astro](https://whitep4nth3r.com/blog/how-to-use-jquery-with-astro/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
