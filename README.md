@@ -1,6 +1,4 @@
-[![Watch my Twitch channel trailer](banner.png)](https://www.twitch.tv/videos/1712035150)
-
-# I write code for your entertainment
+# [I write code for your entertainment](https://www.twitch.tv/videos/1971055901)
 
 I'm a live streamer, software engineer, and developer educator. I help developers build cool stuff with blog posts, tutorial videos, live coding and open source projects.
 
