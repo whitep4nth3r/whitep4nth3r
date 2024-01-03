@@ -13,9 +13,7 @@ const boxenOptions = {
   borderColor: "#ffb626",
 };
 
-const intro = chalk.bold(
-  "Oh, hai! I'm Salma. I help developers build stuff, learn things, and love what they do.\n\nFind me on the internet.\n\n",
-);
+const intro = chalk.bold("I write code for your entertainment.\n\nFind me on the internet.\n\n");
 
 const links = [
   { name: chalk.hex("#fff").bgHex("#0f111a")("Website"), url: "   https://whitep4nth3r.com" },
