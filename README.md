@@ -9,11 +9,11 @@ I'm a live streamer, software engineer, and developer educator. I help developer
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [5 easy tips to improve your personal website performance](https://blog.sentry.io/5-easy-tips-to-improve-your-personal-website-performance/)
 - [How to prevent Prettier putting a full stop on a new line after a link](https://whitep4nth3r.com/blog/prevent-prettier-putting-a-full-stop-on-a-new-line/)
 - [Why don’t we talk about minifying CSS anymore?](https://blog.sentry.io/why-dont-we-talk-about-minifying-css/)
 - [Your background images might be causing CLS](https://blog.sentry.io/your-background-images-might-be-causing-cls/)
 - [How I fixed my brutal TTFB](https://blog.sentry.io/how-i-fixed-my-brutal-ttfb/)
-- [What is INP and why you should care](https://blog.sentry.io/what-is-inp/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
