@@ -9,11 +9,11 @@ I'm a live streamer, software engineer, and developer educator. I help developer
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sentry can’t fix React hydration errors, but it can really help you debug them](https://blog.sentry.io/sentry-cant-fix-react-hydration-errors-but-it-can-really-help-you-debug-them/)
 - [Work is meaningless, and it almost killed my husband](https://whitep4nth3r.com/blog/work-is-meaningless/)
 - [How to make your web page faster before it even loads](https://blog.sentry.io/how-to-make-your-web-page-faster-before-it-even-loads/)
 - [I conducted a community survey and here’s what I learned](https://whitep4nth3r.com/blog/community-survey-2024/)
 - [Your bad LCP score might be a backend issue](https://blog.sentry.io/your-bad-lcp-score-might-be-a-backend-issue/)
-- [How To Hack Your Google Lighthouse Scores In 2024](https://www.smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
