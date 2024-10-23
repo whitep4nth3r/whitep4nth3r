@@ -1,6 +1,9 @@
+![!write code for your entertainment](trailer_thumb.png)
+
 # [I write code for your entertainment](https://www.twitch.tv/videos/1971055901)
 
-I'm a live streamer, software engineer, and developer educator. I help developers build cool stuff with blog posts, tutorial videos, live coding and open source projects.
+I'm a live streamer, software engineer, and developer educator. I help developers build cool stuff with blog posts,
+tutorial videos, live coding and open source projects.
 
 [Things I use for coding and streaming](https://whitep4nth3r.com/uses/)
 
@@ -9,6 +12,7 @@ I'm a live streamer, software engineer, and developer educator. I help developer
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Sentry can’t fix React hydration errors, but it can really help you debug them](https://blog.sentry.io/sentry-cant-fix-react-hydration-errors-but-it-can-really-help-you-debug-them/)
 - [Work is meaningless, and it almost killed my husband](https://whitep4nth3r.com/blog/work-is-meaningless/)
 - [How to make your web page faster before it even loads](https://blog.sentry.io/how-to-make-your-web-page-faster-before-it-even-loads/)
