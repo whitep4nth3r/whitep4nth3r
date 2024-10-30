@@ -6,7 +6,7 @@ import chalk from "chalk";
 
 const boxenOptions = {
   padding: 1,
-  width: 54,
+  width: 60,
   title: "whitep4nth3r",
   titleAlignment: "center",
   borderStyle: "double",
@@ -24,14 +24,10 @@ const links = [
     url: "    https://github.com/whitep4nth3r",
   },
   {
-    name: chalk.hex("#fff").bgHex("#ee1d52")("Tik") + chalk.hex("#000").bgHex("#69c9d0")("Tok"),
-    url: "    https://tiktok.com/@whitep4nth3r",
+    name: chalk.hex("#fff").bgHex("##208BFE")("Bluesky"),
+    url: "   https://bsky.app/profile/whitep4nth3r.com",
   },
   { name: chalk.hex("#fff").bgHex("#9146ff")("Twitch"), url: "    https://twitch.tv/whitep4nth3r" },
-  {
-    name: chalk.hex("#fff").bgHex("#1DA1F2")("Twitter"),
-    url: "   https://twitter.com/whitep4nth3r",
-  },
   {
     name: chalk.hex("#fff").bgHex("#ff0000")("YouTube"),
     url: "   https://youtube.com/whitep4nth3r",
