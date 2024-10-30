@@ -12,7 +12,6 @@ tutorial videos, live coding and open source projects.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Sentry can’t fix React hydration errors, but it can really help you debug them](https://blog.sentry.io/sentry-cant-fix-react-hydration-errors-but-it-can-really-help-you-debug-them/)
 - [Work is meaningless, and it almost killed my husband](https://whitep4nth3r.com/blog/work-is-meaningless/)
 - [How to make your web page faster before it even loads](https://blog.sentry.io/how-to-make-your-web-page-faster-before-it-even-loads/)
