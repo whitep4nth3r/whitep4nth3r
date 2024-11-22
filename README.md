@@ -12,11 +12,11 @@ tutorial videos, live coding and open source projects.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How I show Bluesky likes on my blog posts](https://whitep4nth3r.com/blog/show-bluesky-likes-on-blog-posts/)
 - [Entertainment as Code: Finale](https://whitep4nth3r.com/talks/entertainment-as-code-finale/)
 - [Sentry can’t fix React hydration errors, but it can really help you debug them](https://blog.sentry.io/sentry-cant-fix-react-hydration-errors-but-it-can-really-help-you-debug-them/)
 - [Work is meaningless, and it almost killed my husband](https://whitep4nth3r.com/blog/work-is-meaningless/)
 - [How to make your web page faster before it even loads](https://blog.sentry.io/how-to-make-your-web-page-faster-before-it-even-loads/)
-- [I conducted a community survey and here’s what I learned](https://whitep4nth3r.com/blog/community-survey-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
