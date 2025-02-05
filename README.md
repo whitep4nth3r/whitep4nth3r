@@ -12,7 +12,7 @@ tutorial videos, live coding and open source projects.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [From pain to productivity: How I learned to code with my voice](https://whitep4nth3r.com/blog/how-i-learned-to-code-with-my-voice/)
+- [How I learned to code with my voice](https://whitep4nth3r.com/blog/how-i-learned-to-code-with-my-voice/)
 - [How to build a copy code snippet button and why it matters](https://whitep4nth3r.com/blog/how-to-build-a-copy-code-snippet-button/)
 - [A reluctant roundup of 2024](https://whitep4nth3r.com/blog/a-reluctant-roundup-of-2024/)
 - [It’s OK to have a slow day](https://whitep4nth3r.com/blog/its-ok-to-have-a-slow-day/)
