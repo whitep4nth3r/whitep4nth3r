@@ -12,11 +12,11 @@ tutorial videos, live coding and open source projects.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [You are more than the tools you use: tell your story](https://whitep4nth3r.com/blog/you-are-more-than-the-tools-you-use/)
 - [3 reasons you should tour a conference talk](https://whitep4nth3r.com/blog/3-reasons-you-should-tour-a-conference-talk/)
 - [A case for getting dressed every day](https://whitep4nth3r.com/blog/get-dressed-every-day/)
 - [How I created a newsletter I actually enjoy writing](https://whitep4nth3r.com/blog/how-to-create-a-newsletter/)
 - [How I learned to code with my voice](https://whitep4nth3r.com/blog/how-i-learned-to-code-with-my-voice/)
-- [How to build a copy code snippet button and why it matters](https://whitep4nth3r.com/blog/how-to-build-a-copy-code-snippet-button/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
