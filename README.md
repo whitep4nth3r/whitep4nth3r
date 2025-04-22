@@ -12,7 +12,7 @@ tutorial videos, live coding and open source projects.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [Does AI really make you more productive?](https://toddle.dev/blog/does-ai-really-make-you-more-productive)
+- [Does AI really make you more productive?](https://blog.nordcraft.com/does-ai-really-make-you-more-productive)
 - [Is this the next step in the evolution of front end dev?](https://whitep4nth3r.com/blog/the-next-step-in-the-evolution-of-front-end-dev/)
 - [You are more than the tools you use: tell your story](https://whitep4nth3r.com/blog/you-are-more-than-the-tools-you-use/)
 - [3 reasons you should tour a conference talk](https://whitep4nth3r.com/blog/3-reasons-you-should-tour-a-conference-talk/)
