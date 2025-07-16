@@ -12,11 +12,11 @@ tutorial videos, live coding and open source projects.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Why &quot;Women in Tech&quot; isn&#39;t enough](https://whitep4nth3r.com/blog/why-women-in-tech-isnt-enough/)
 - [The promise that wasn’t kept](https://whitep4nth3r.com/blog/the-promise-that-wasnt-kept/)
 - [The experience is enough](https://whitep4nth3r.com/blog/the-experience-is-enough/)
 - [It wasn’t the idea that failed: it was the execution](https://blog.nordcraft.com/it-wasnt-the-idea-that-failed-it-was-the-execution)
 - [Thrive](https://whitep4nth3r.com/blog/thrive/)
-- [Does AI really make you more productive?](https://blog.nordcraft.com/does-ai-really-make-you-more-productive)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
