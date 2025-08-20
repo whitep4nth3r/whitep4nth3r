@@ -12,11 +12,11 @@ tutorial videos, live coding and open source projects.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Twitch live stream graphics don’t really matter, but they can help](https://whitep4nth3r.com/blog/create-free-twitch-live-stream-graphics/)
 - [How I set up my Dygma Defy keyboard layers](https://whitep4nth3r.com/blog/dygma-defy-keyboard-layers/)
 - [Put your phone down](https://whitep4nth3r.com/blog/put-your-phone-down/)
 - [Why Women in Tech isn&#39;t enough](https://whitep4nth3r.com/blog/why-women-in-tech-isnt-enough/)
 - [The promise that wasn’t kept](https://whitep4nth3r.com/blog/the-promise-that-wasnt-kept/)
-- [The experience is enough](https://whitep4nth3r.com/blog/the-experience-is-enough/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
