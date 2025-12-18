@@ -1,11 +1,11 @@
 ![!write code for your entertainment](trailer_thumb.png)
 
-# [I write code for your entertainment](https://www.twitch.tv/videos/1971055901)
+# I write code for your entertainment
 
-I'm a live streamer, software engineer, and developer educator. I help developers build cool stuff with blog posts,
-tutorial videos, live coding and open source projects.
+I'm a software engineer and developer educator. I help developers build cool stuff with blog posts,
+tutorial videos and open source projects.
 
-[Things I use for coding and streaming](https://whitep4nth3r.com/uses/)
+[Things on my desk](https://whitep4nth3r.com/uses/)
 
 [Subscribe to the Weird Wide Web Hole Newsletter](https://buttondown.email/weirdwidewebhole)
 
@@ -22,6 +22,5 @@ tutorial videos, live coding and open source projects.
 ## ⚡️ Keep up to date
 
 - [Website](https://whitep4nth3r.com/)
-- [Twitch](https://twitch.tv/whitep4nth3r)
 - [Twitter](https://twitter.com/whitep4nth3r)
 - [YouTube](https://www.youtube.com/c/whitep4nth3r/videos)
