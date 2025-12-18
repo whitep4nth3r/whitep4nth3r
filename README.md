@@ -22,5 +22,5 @@ tutorial videos and open source projects.
 ## ⚡️ Keep up to date
 
 - [Website](https://whitep4nth3r.com/)
-- [Twitter](https://twitter.com/whitep4nth3r)
+- [Bluesky](https://bsky.app/profile/whitep4nth3r.com)
 - [YouTube](https://www.youtube.com/c/whitep4nth3r/videos)
