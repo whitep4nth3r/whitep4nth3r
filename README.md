@@ -12,11 +12,11 @@ tutorial videos and open source projects.
 ## ⚡️ Latest articles on [my blog](https://whitep4nth3r.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [I am in an abusive relationship with the technology industry](https://whitep4nth3r.com/blog/i-am-in-an-abusive-relationship-with-the-technology-industry/)
 - [How to make your first contribution to an open source project](https://whitep4nth3r.com/blog/how-to-make-your-first-open-source-contribution/)
 - [I built a website for drummers](https://whitep4nth3r.com/blog/website-for-drummers-free-pdf-downloads-transcriptions/)
 - [I tracked everything I wore in 2025. Was it worth it?](https://whitep4nth3r.com/blog/i-tracked-everything-i-wore-in-2025/)
 - [I redesigned my website &lpar;again&rpar;](https://whitep4nth3r.com/blog/website-redesign-2026/)
-- [This is not a 2025 wrap up post](https://whitep4nth3r.com/blog/this-is-not-a-2025-wrap-up-post/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Keep up to date
